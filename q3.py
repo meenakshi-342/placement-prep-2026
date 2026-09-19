@@ -30,7 +30,7 @@ def main():
     print(f"{counts}")
 
 if __name__ =="__main__":
-    main()'''
+    main()
 
 def main():
     inventory = {
@@ -48,6 +48,23 @@ def main():
             reorder_list.append(items)
     print(f"the stock list is: {reorder_list}")
 if __name__ =="__main__":
+    main()'''
+
+
+def main():
+    students_passed = []
+    scores = {
+    "Alice": 88,
+    "Bob": 62,
+    "Charlie": 95,
+    "David": 71,
+    "Eve": 80
+}
+    for items, marks in scores.items():
+        if marks > 75:
+            students_passed.append(items)
+    print(f"The Students that passed these SEM Exams are: {students_passed}")
+if __name__ == "__main__":
     main()
 
 

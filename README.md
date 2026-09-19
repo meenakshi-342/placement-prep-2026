@@ -33,8 +33,8 @@
   - [x] *Drill 4: Manual string reversal via prepending (`char + result`)*
   - [x] *Drill 5: Character frequency counter (`counts[char]` accumulator)*
   - [x] *Drill 6: Low-stock inventory filter using `.items()` and `.append()`*
-- [ ] **Day 5:** Watch CS50P Lecture 3 *(Exceptions: `try`, `except`, `else`, `finally`)*
-- [ ] **Day 6:** CS50P Problem Set 3 *(fuel, taqueria)*
+- [x] **Day 5:** Watch CS50P Lecture 3 *(Exceptions: `try`, `except`, `else`, `finally`)*
+- [x] **Day 6:** CS50P Problem Set 3 *(fuel, taqueria)*
 - [ ] **Day 7:** Weekly Code Review & GitHub Commit
   - [ ] *Complete Drill 7 (`q4.py`): Batch String Cleaning (`.strip().title()`)*
   - [ ] *Push `chapter1` scripts (`loops.py`, `q3.py`, `q4.py`) to repository*
@@ -45,10 +45,10 @@
 **Status:** ⚪ *Pending*  
 **Primary Focus:** Dictionary/list manipulation, CS50P modules, and foundational SQL queries.
 
-- [ ] **Day 8:** CS50P Lecture 4 *(Libraries & modules: `random`, `sys`)*
-- [ ] **Day 9:** CS50P Problem Set 4 *(figlet, adieu)*
-- [ ] **Day 10:** SQL Foundations *(Syntax: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)*
-- [ ] **Day 11:** SQL Practice *(10 basic filtering problems: `LIKE`, `IN`)*
+- [x] **Day 8:** CS50P Lecture 4 *(Libraries & modules: `random`, `sys`)*
+- [x] **Day 9:** CS50P Problem Set 4 *(figlet, adieu)*
+- [x] **Day 10:** SQL Foundations *(Syntax: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)*
+- [x] **Day 11:** SQL Practice *(10 basic filtering problems: `LIKE`, `IN`)*
 - [ ] **Day 12:** SQL Aggregations *(`GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`)*
 - [ ] **Day 13:** SQL Practice *(10 intermediate aggregation problems)*
 - [ ] **Day 14:** Weekly Review *(Combined Python + SQL integration exercise)*
