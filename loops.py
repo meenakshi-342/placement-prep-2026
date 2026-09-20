@@ -1,19 +1,5 @@
-'''def vowel_killer(character):
-    result=""
-    for char in character:
-        if char.lower() in "aeiou":
-            pass
-        else:
-            result += char
-    return result
+'''
 
-def main():
-    user_input = str(input("Enter your words: "))
-    user_output = vowel_killer(user_input)
-    print(f"The Expected word is: {user_output}")
-
-if __name__ == "__main__":
-    main()
 
 def main():
     menu = {

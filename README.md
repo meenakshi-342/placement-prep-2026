@@ -35,9 +35,9 @@
   - [x] *Drill 6: Low-stock inventory filter using `.items()` and `.append()`*
 - [x] **Day 5:** Watch CS50P Lecture 3 *(Exceptions: `try`, `except`, `else`, `finally`)*
 - [x] **Day 6:** CS50P Problem Set 3 *(fuel, taqueria)*
-- [ ] **Day 7:** Weekly Code Review & GitHub Commit
-  - [ ] *Complete Drill 7 (`q4.py`): Batch String Cleaning (`.strip().title()`)*
-  - [ ] *Push `chapter1` scripts (`loops.py`, `q3.py`, `q4.py`) to repository*
+- [x] **Day 7:** Weekly Code Review & GitHub Commit
+  - [x] *Complete Drill 7 (`q4.py`): Batch String Cleaning (`.strip().title()`)*
+  - [x] *Push `chapter1` scripts (`loops.py`, `q3.py`, `q4.py`) to repository*
 
 ---
 
@@ -59,7 +59,7 @@
 **Status:** ⚪ *Pending*  
 **Primary Focus:** Automated unit testing, file reading/writing, and multi-table relational joins.
 
-- [ ] **Day 15:** CS50P Lecture 5 *(Unit Tests with `pytest`)*
+- [x] **Day 15:** CS50P Lecture 5 *(Unit Tests with `pytest`)*
 - [ ] **Day 16:** CS50P Problem Set 5 *(`test_twttr`, `test_bank`)*
 - [ ] **Day 17:** CS50P Lecture 6 *(File I/O: reading and writing `.csv` & `.txt` files)*
 - [ ] **Day 18:** CS50P Problem Set 6 *(`lines`, `pizza`)*
